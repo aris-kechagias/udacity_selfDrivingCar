@@ -1,0 +1,20 @@
+category: 31 prediction: [[31 21 25 29  2]]
+stats: [[55.967  4.522  3.740  2.093  2.046]]%
+
+category: 12 prediction: [[12 40 11  7 30]]
+stats: [[90.068  2.480  0.796  0.738  0.730]]%
+
+category: 2 prediction: [[2 1 3 4 5]]
+stats: [[8.794 8.162 4.403 3.885 3.872]]%
+
+category: 41 prediction: [[41 32 42 20 12]]
+stats: [[64.173  5.564  4.075  3.215  2.476]]%
+
+category: 15 prediction: [[15 12  3  5  9]]
+stats: [[69.233  3.224  2.541  2.374  1.843]]%
+
+category: 13 prediction: [[13 35  9 34 15]]
+stats: [[9.835e+01 5.544e-01 2.814e-01 1.266e-01 6.941e-02]]%
+
+category: 40 prediction: [[40  7 30 42 11]]
+stats: [[33.902  5.832  4.714  4.438  3.181]]%

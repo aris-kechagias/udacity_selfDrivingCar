@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/playground/udacitySelfDrivingCar/prediction/CarND-Path-Planning-Project/src/Eigen-3.3/test/cholesky.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "cholesky_4"
+	}
+}
